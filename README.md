@@ -41,3 +41,19 @@ create table borrow_record(
 	issue_date date NOT NULL,
 	return_date date NOT NULL
 );
+
+SAMPLE SCREENSHOTS
+
+![Screenshot 2025-05-15 230017](https://github.com/user-attachments/assets/aaf7eaf1-a5e1-460a-a49f-4af0411e85b5)
+
+
+![Screenshot 2025-05-15 230131](https://github.com/user-attachments/assets/ce03b67b-3722-4c0d-9142-8a7b77012dbf)
+
+
+![Screenshot 2025-05-15 230505](https://github.com/user-attachments/assets/9ac44be6-ee66-4aba-b513-c8bf53545665)
+
+
+![Screenshot 2025-05-15 230539](https://github.com/user-attachments/assets/8d8127ff-1c42-43dd-9300-c354965d12c4)
+
+
+
